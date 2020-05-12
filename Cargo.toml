@@ -7,8 +7,7 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-compiler_builtins = { git = "https://github.com/rust-lang/compiler-builtins" }
-rustc-std-workspace-core = "1.0.0"
-hermit-abi = "0.1.8"
-libc = "0.2.67"
-num_cpus = "1.12.0"
+# compiler_builtins = { git = "https://github.com/rust-lang/compiler-builtins" }
+# rustc-std-workspace-core = "1.0.0"
+ffmpeg-dev = "0.3.8"
+# ffmpeg = "0.2.2"

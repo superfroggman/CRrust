@@ -1,10 +1,6 @@
+//extern crate ffmpeg;
+
 use std::env;
-extern crate num_cpus;
-extern crate compiler_builtins;
-
-// count logical cores this process could try to use
-let num = num_cpus::get();
-
 
 fn main() {
     //intro!
